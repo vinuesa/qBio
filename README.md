@@ -1,7 +1,9 @@
 # [qBio18](http://www.qbio18.mx/)
 <img src="docs/pics/qBio_logo_and_contact.jpeg" />
+<img src="https://github.com/vinuesa/qBio/blob/master/docs/pics/qBio_logo_and_contact.jpeg" />
 
-## Bloque de **Pangen&oacute;mica y Evoluci&oacute;n Microbiana**
+
+## Bloque de **Pangen&oacute;mica y Evoluci&oacute;n Microbiana** />
 
 ### Ediciones de los cursos de verano en biolog&iacute;a cuantitativa
 - [qBio18](http://www.qbio18.mx/), primera edici&oacute;n
