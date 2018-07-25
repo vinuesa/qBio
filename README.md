@@ -1,4 +1,6 @@
 # [qBio18](http://www.qbio18.mx/)
+<img src="docs/pics/qBio_logo_and_contact.jpeg" />
+
 ## Bloque de **Pangen&oacute;mica y Evoluci&oacute;n Microbiana**
 
 ### Ediciones de los cursos de verano en biolog&iacute;a cuantitativa
@@ -28,8 +30,17 @@ Las clases se imparten en el auditorio Dr. Guillermo Sober&oacute;n del Centro d
 de 9 a 19 hrs, seg&uacute;n el [programa de qBio18](http://www.qbio18.mx/qBio18_programa.pdf)
 
 
-## Temario y material asociado
+## Sesiones y material asociado
 
 ### Sesi&oacute;n 1: conceptos b&aacute;sicos de evoluci&oacute;n y filogen&eacute;tica
 - [presentaci&oacute;n - pdf](https://github.com/vinuesa/qBio/blob/master/docs/sesion1/qBio18_sesion1_intro2phyloinfo.pdf)
-- [pr&aacute;ctica1 - tgz](https://github.com/vinuesa/qBio/blob/master/docs/sesion1/practica1.tgz)
+- [pr&aacute;ctica1 - tgz](https://github.com/vinuesa/qBio/blob/master/docs/sesion1/practica.tgz)
+
+### Sesi&oacute;n 2: introducci&oacute;n a la pangen&oacute;mica microbiana y pr&aacute;ctica de [GET_HOMOLOGUES]()
+- [presentaci&oacute;n - pdf](https://github.com/vinuesa/qBio/blob/master/docs/sesion2/qBio18_sesion2_Pangenomica_y_filogenomica_bacteriana_25Jul18.pdf)
+- [c&odigo pr&aacute;ctica GET_HOMOLOGUES - bash](https://github.com/vinuesa/qBio/blob/master/docs/sesion2/code4_GET_HOMOLOGUES_qBio18.txt)
+- [tutorial en l&iacute;nea de GET_HOMOLOGUES](https://vinuesa.github.io/get_phylomarkers/#get_homologues-get_phylomarkers-tutorials)
+
+### Sesi&oacute;n 3: introducci&oacute;n a la filogen&oacute;mica microbiana y pr&aacute;ctica de [GET_PHYLOMARKERS]()
+- [presentaci&oacute;n - pdf](https://github.com/vinuesa/qBio/blob/master/docs/sesion3/qBio18_sesion3_get_phylomarkers_overview_25Jul18.pdf)
+- [tutorial en l&iacute;nea de GET_PHYLOMARKERS](https://vinuesa.github.io/get_phylomarkers/#get_homologues-get_phylomarkers-tutorials)
