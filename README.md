@@ -31,5 +31,5 @@ de 9 a 19 hrs, seg&uacute;n el [programa de qBio18](http://www.qbio18.mx/qBio18_
 ## Temario y material asociado
 
 ### Sesi&oacute;n 1: conceptos b&aacute;sicos de evoluci&oacute;n y filogen&eacute;tica
-- [presentaci&oacute;n - pdf](https://vinuesa.github.io/qbio/sesion1/qBio18_sesion1_intro2phyloinfo.pdf)
-- [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/qbio/sesion1/practica1.tgz)
+- [presentaci&oacute;n - pdf](https://github.com/vinuesa/qBio/blob/master/docs/sesion1/qBio18_sesion1_intro2phyloinfo.pdf)
+- [pr&aacute;ctica1 - tgz](https://github.com/vinuesa/qBio/blob/master/docs/sesion1/practica1.tgz)
