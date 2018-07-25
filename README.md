@@ -1,6 +1,6 @@
 # [qBio18](http://www.qbio18.mx/)
-<img src="docs/pics/qBio_logo_and_contact.jpeg" />
-<img src="https://github.com/vinuesa/qBio/blob/master/docs/pics/qBio_logo_and_contact.jpeg" />
+
+<img src="docs/pics/qBio_logo_and_contact.jpg" />
 
 
 ## Bloque de **Pangen&oacute;mica y Evoluci&oacute;n Microbiana** />
